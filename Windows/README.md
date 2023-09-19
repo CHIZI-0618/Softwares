@@ -392,18 +392,17 @@ apksigner sign --ks SekiBetu.p12 --ks-key-alias SekiBetu optimized-unsigned.apk 
 <details><summary>Chrome & Edge Flags</summary>
 
 ```shell
+Override software rendering list
 Smooth Scrolling
 【Chrome Only】Overlay Scrollbars
+GPU rasterization
 【Chrome Only】Windows Fluent scrollbars.
+Parallel downloading
 【Chrome Only】Windows 11 Mica titlebar
 【Chrome Only】Chrome Refresh 2023
 【Chrome Only】Chrome WebUI Refresh 2023
-【Chrome Only】Power bookmarks side panel
-Parallel downloading
 【Chrome Only】Enable download bubble
 【Chrome Only】Enable download bubble V2
-GPU rasterization
-Override software rendering list
 【Edge Only】Microsoft Edge Share Menu
 【Edge Only】Make Rounded Tabs feature available
 【Edge Only】Windows Fluent scrollbars.
