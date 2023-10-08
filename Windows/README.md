@@ -590,8 +590,6 @@ options
 
 #### Recovery
 
-- [EasyRecovery](https://www.423down.com/7904.html)
-- [R-STUDIO Network](https://www.423down.com/8132.html)
 - [DiskGenius](https://www.423down.com/8073.html)
 
 ## Developer Tools
