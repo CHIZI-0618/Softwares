@@ -213,7 +213,7 @@ https://adoptium.net/temurin/releases
 ```shell
 curl -JL https://packages.adoptium.net/artifactory/api/gpg/key/public | sudo gpg --dearmor --yes -o /usr/share/keyrings/temurin-archive-keyring.gpg
 echo "deb [signed-by=/usr/share/keyrings/temurin-archive-keyring.gpg] https://packages.adoptium.net/artifactory/deb/ $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/temurin.list
-sudo apt update && sudo apt install -y temurin-17-jdk
+sudo apt update && sudo apt install -y temurin-21-jdk
 ```
 
 </details>
