@@ -15,7 +15,7 @@ sudo apt install -y build-essential vim ffmpeg libunwind8 gettext screen git php
 
 curl -JL https://adoptium.jfrog.io/artifactory/api/security/keypair/default-gpg-key/public | sudo gpg --dearmor --yes -o /usr/share/keyrings/temurin-archive-keyring.gpg
 echo "deb [signed-by=/usr/share/keyrings/temurin-archive-keyring.gpg] https://adoptium.jfrog.io/artifactory/deb/ $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/temurin.list
-sudo apt update && sudo apt install -y temurin-17-jdk
+sudo apt update && sudo apt install -y temurin-21-jdk
 
 cd ${cur_dir} ; cd BL
 curl https://getcomposer.org/installer | php8.1
