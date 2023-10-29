@@ -624,7 +624,6 @@ options
 - [uBO Minus (MV3)](https://chrome.google.com/webstore/detail/ubo-minus-mv3/ddkjiahejlhfcafbddmgiahcphecmpfh/related)
 - [RSS Reader Extension (by Inoreader)](https://chrome.google.com/webstore/detail/rss-reader-extension-by-i/kfimphpokifbjgmjflanmfeppcjimgah)
 - [贴吧签到助手](https://chrome.google.com/webstore/detail/bpheclmhommpomjoeoifcggjmdelgaoj)
-- [Twitter Media Downloader](https://chrome.google.com/webstore/detail/twitter-media-downloader/cblpjenafgeohmnjknfhpdbdljfkndig)
 - [EditThisCookie](https://github.com/ETCExtensions/Edit-This-Cookie)
 - [SingleFile](https://github.com/gildas-lormeau/SingleFile)
 - [魂签](https://github.com/inu1255/soulsign-chrome)
