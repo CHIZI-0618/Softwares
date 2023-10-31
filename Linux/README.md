@@ -122,6 +122,8 @@ wget --no-check-certificate -qO InstallNET.sh 'https://raw.githubusercontent.com
 bash InstallNET.sh -debian 12 -port "端口" -pwd "密码" -timezone "Asia/Shanghai"
 ```
 
+https://github.com/spiritLHLS/one-click-installation-script
+
 </details>
 <details>
 <summary>xanmod 内核</summary>
