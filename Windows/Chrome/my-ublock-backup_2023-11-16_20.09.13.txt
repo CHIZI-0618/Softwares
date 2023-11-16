@@ -1,6 +1,6 @@
 {
-  "timeStamp": 1698923504884,
-  "version": "1.52.2",
+  "timeStamp": 1700136553351,
+  "version": "1.53.0",
   "userSettings": {
     "cloudStorageEnabled": true,
     "uiTheme": "dark",
@@ -49,5 +49,5 @@
   "dynamicFilteringString": "behind-the-scene * * noop\nbehind-the-scene * inline-script noop\nbehind-the-scene * 1p-script noop\nbehind-the-scene * 3p-script noop\nbehind-the-scene * 3p-frame noop\nbehind-the-scene * image noop\nbehind-the-scene * 3p noop",
   "urlFilteringString": "",
   "hostnameSwitchesString": "no-large-media: behind-the-scene false\nno-csp-reports: * true\nno-strict-blocking: festivefranchisetorrent.com true\nno-strict-blocking: click.redditmail.com true",
-  "userFilters": "! 2023-04-03 https://www.inoreader.com\nwww.inoreader.com###sinner_container\n"
+  "userFilters": ""
 }
