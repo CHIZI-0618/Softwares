@@ -183,11 +183,11 @@ wget -N --no-check-certificate "https://raw.githubusercontent.com/ylx2016/Linux-
 <details>
 <summary>代理脚本</summary>
 
-https://github.com/kirin10000/Xray-script
+https://github.com/mack-a/v2ray-agent
 
 ```shell
-wget -O Xray-REALITY+Web.sh https://github.com/kirin10000/Xray-script/raw/main/Xray-REALITY+Web.sh
-sudo bash Xray-REALITY+Web.sh
+wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
+vasma
 ```
 
 </details>
