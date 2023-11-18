@@ -23,6 +23,7 @@ sudo timedatectl set-timezone Asia/Shanghai
 sudo timedatectl set-ntp true
 sudo apt update && sudo apt upgrade -y
 
+sudo apt --fix-broken install
 sudo apt --fix-missing purge
 sudo apt --purge autoremove -y && sudo apt autoclean -y && sudo apt clean
 
