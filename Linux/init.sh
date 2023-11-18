@@ -19,8 +19,8 @@ echo "deb-src [signed-by=/usr/share/keyrings/nginx-archive-keyring.gpg] https://
 
 # [Nodejs](https://nodejs.org/zh-cn/download/package-manager/#debian-and-ubuntu-based-linux-distributions-enterprise-linux-fedora-and-snap-packages)
 curl -JL https://deb.nodesource.com/gpgkey/nodesource.gpg.key | sudo gpg --dearmor --yes -o /usr/share/keyrings/nodejs-archive-keyring.gpg
-echo "deb [signed-by=/usr/share/keyrings/nodejs-archive-keyring.gpg] https://deb.nodesource.com/node_18.x/ $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/nodejs.list > /dev/null
-echo "deb-src [signed-by=/usr/share/keyrings/nodejs-archive-keyring.gpg] https://deb.nodesource.com/node_18.x/ $(lsb_release -cs) main" | sudo tee -a /etc/apt/sources.list.d/nodejs.list > /dev/null
+echo "deb [signed-by=/usr/share/keyrings/nodejs-archive-keyring.gpg] https://deb.nodesource.com/node_20.x/ $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/nodejs.list > /dev/null
+echo "deb-src [signed-by=/usr/share/keyrings/nodejs-archive-keyring.gpg] https://deb.nodesource.com/node_20.x/ $(lsb_release -cs) main" | sudo tee -a /etc/apt/sources.list.d/nodejs.list > /dev/null
 # sudo apt update && sudo apt install -y nodejs
 
 # [php](https://deb.sury.org/)
