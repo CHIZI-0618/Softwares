@@ -567,7 +567,7 @@ options
 - [qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases)、[tracker](https://github.com/XIU2/TrackersListCollection)、[tracker2](https://github.com/ngosang/trackerslist)
 - [WinMerge](https://github.com/WinMerge/winmerge/releases)
 - [LocalSend](https://github.com/localsend/localsend/releases)
-- [Free Download Manager](https://www.freedownloadmanager.org/)
+- [Internet Download Manager](https://www.internetdownloadmanager.com/download.html)
 
 ## Software List(Optional)
 
@@ -637,8 +637,8 @@ options
 - [Adobe Acrobat](https://chrome.google.com/webstore/detail/adobe-acrobat/efaidnbmnnnibpcajpcglclefindmkaj)
 - [Augmented Steam](https://github.com/tfedor/AugmentedSteam)
 - [EhSyringe](https://github.com/EhTagTranslation/EhSyringe)
-- [Free Download Manager](https://chromewebstore.google.com/detail/free-download-manager/ahmpjcflkgiildlgicmcieglgoilbfdp)
 - [Git Master](https://github.com/ineo6/git-master)
+- [IDM Integration Module](https://chrome.google.com/webstore/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek)
 - [JSON Viewer](https://github.com/tulios/json-viewer)
 - [mirigana](https://github.com/mirigana/mirigana)
 - [Refined GitHub](https://github.com/refined-github/refined-github)
@@ -655,7 +655,6 @@ options
 
 - ~~[cat-catch](https://github.com/xifangczy/cat-catch)~~
 - ~~[FeHelper](https://github.com/zxlie/FeHelper)~~
-- ~~[IDM Integration Module](https://chrome.google.com/webstore/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek)~~
 - ~~[QZoneExport](https://github.com/ShunCai/QZoneExport)~~
 - ~~[uBlacklist](https://github.com/iorate/uBlacklist)、[中文搜索结果黑名单](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist)~~
 
