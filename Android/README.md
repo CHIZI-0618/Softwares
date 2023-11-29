@@ -74,8 +74,6 @@
 
 - ManHuaGui(网站经常维护)
 
-- Maofly
-
 - Picacomic
 
 </details>
