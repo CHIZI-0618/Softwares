@@ -78,11 +78,9 @@
 
 - Picacomic
 
-- ~~Pufei(网站已关闭)~~
-
 </details>
 
-- ~~[Ehviewer](https://github.com/Ehviewer-Overhauled/Ehviewer/releases)~~、~~[FEhViewer](https://github.com/honjow/FEhViewer/releases)~~、[JHenTai](https://github.com/jiangtian616/JHenTai/releases)
+- [JHenTai](https://github.com/jiangtian616/JHenTai/releases)
 
 ## 视频直播
 
@@ -108,7 +106,13 @@
 
 - [TapTap](https://www.taptap.com/mobile)
 
-- ~~[ONScripter-Jh](https://github.com/jh10001/ONScripter-Jh/releases)~~
+- DNF助手
+
+- Colg玩家社区
+
+- NGA玩家社区
+
+- 网易BUFF
 
 ## 安全
 
@@ -122,7 +126,7 @@
 
 ## 无分组
 
-- [X](https://play.google.com/store/apps/details?id=com.twitter.android)
+- [ X ](https://play.google.com/store/apps/details?id=com.twitter.android)
 
 - [百度网盘](https://pan.baidu.com/download)
 
@@ -144,11 +148,13 @@
 
 - [Magisk](https://github.com/topjohnwu/Magisk)
 
-- [【Magisk Module】safetynet-fix](https://github.com/kdrag0n/safetynet-fix/releases)
+- ~~[【Magisk Module】safetynet-fix](https://github.com/kdrag0n/safetynet-fix/releases)~~
+
+- [【Magisk Module】PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix/releases)
 
 - [【Magisk Module】BootAnimation](https://t.me/MagiBoot)
 
-- [【Magisk Module】MagiskTrustUserCerts](https://github.com/NVISOsecurity/MagiskTrustUserCerts)
+- ~~[【Magisk Module】MagiskTrustUserCerts](https://github.com/NVISOsecurity/MagiskTrustUserCerts)~~
 
 - [【Magisk Module】LSPosed](https://github.com/LSPosed/LSPosed/actions/workflows/core.yml?query=workflow%3ACore+branch%3Amaster)
 
@@ -156,7 +162,7 @@
 
 - [【LSPosed Module】DisableFlagSecure](https://github.com/LSPosed/DisableFlagSecure/releases)
 
-- [【LSPosed Module】JustTrustMe](https://github.com/SekiBetu/JustTrustMe/releases)
+- ~~[【LSPosed Module】JustTrustMe](https://github.com/SekiBetu/JustTrustMe/releases)~~
 
 - [ZArchiver Pro](https://www.423down.com/6027.html)
 
@@ -166,7 +172,7 @@
 
 - [MX Player Pro](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.pro)
 
-- [Microsoft 365](https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow)
+- [WPS](https://mo.wps.cn/pc-app/office-android.html)
 
 - [搜狗输入法](https://pinyin.cn/)
 
@@ -178,11 +184,11 @@
 
 - [【LSPosed Module】TSBattery](https://github.com/fankes/TSBattery/releases)
 
-- [【LSPosed Module】钉钉反撤回神器](https://github.com/Xposed-Modules-Repo/com.dingtalk.recall/releases)
-
-- [【LSPosed Module】Re:Telegram](https://github.com/Sakion-Team/Re-Telegram/releases)
-
 - [LocalSend](https://github.com/localsend/localsend/releases)
+
+- [布丁扫描](https://www.budingscan.com/)
+
+- [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt)
 
 ## Proxy
 
@@ -240,6 +246,8 @@
 
 - 扫一扫
 
+- [爱玩机工具箱](https://www.coolapk.com/apk/com.byyoung.setting)
+
 ## 无分组
 
 - [网易云音乐](https://music.163.com/#/download)
@@ -286,11 +294,11 @@
 
 - [中国工商银行](https://icbc.com.cn/ICBC/%e7%94%b5%e5%ad%90%e9%93%b6%e8%a1%8c/%e5%ae%a2%e6%88%b7%e7%ab%af%e4%b8%8b%e8%bd%bd/default.htm)
 
-- [浙里办](https://www.zjzwfw.gov.cn/col/col1229640638/index.html)
+- ~~[浙里办](https://www.zjzwfw.gov.cn/col/col1229640638/index.html)~~
 
-- [掌上12333](http://www.12333.gov.cn/ggfwstatic/download/app.html)
+- ~~[掌上12333](http://www.12333.gov.cn/ggfwstatic/download/app.html)~~
 
-- [国家医保服务平台](https://app.gjzwfw.gov.cn/fwmhapp/downloadApp/android.html)
+- ~~[国家医保服务平台](https://app.gjzwfw.gov.cn/fwmhapp/downloadApp/android.html)~~
 
 ## Future
 
