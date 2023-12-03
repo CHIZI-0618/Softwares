@@ -124,7 +124,7 @@
 
 ## 无分组
 
-- [X\](https://play.google.com/store/apps/details?id=com.twitter.android)
+- [X](https://play.google.com/store/apps/details?id=com.twitter.android)
 
 - [百度网盘](https://pan.baidu.com/download)
 
