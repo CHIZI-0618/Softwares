@@ -618,13 +618,13 @@ options
 
 - [Tab Muter](https://github.com/sersorrel/mute-tab)
 - [哔哩哔哩助手](https://github.com/bilibili-helper/bilibili-helper-o)
-- [FireShot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg)
-- [Shazam](https://chrome.google.com/webstore/detail/shazam-identify-songs-fro/mmioliijnhnoblpgimnlajmefafdfilb)
-- [Bitwarden](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb)
+- [FireShot](https://chromewebstore.google.com/detail/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg)
+- [Shazam](https://chromewebstore.google.com/detail/detail/shazam-identify-songs-fro/mmioliijnhnoblpgimnlajmefafdfilb)
+- [Bitwarden](https://chromewebstore.google.com/detail/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb)
 - [uBlock Origin](https://github.com/gorhill/uBlock)
-- [uBO Minus (MV3)](https://chrome.google.com/webstore/detail/ubo-minus-mv3/ddkjiahejlhfcafbddmgiahcphecmpfh/related)
-- [RSS Reader Extension (by Inoreader)](https://chrome.google.com/webstore/detail/rss-reader-extension-by-i/kfimphpokifbjgmjflanmfeppcjimgah)
-- [贴吧签到助手](https://chrome.google.com/webstore/detail/bpheclmhommpomjoeoifcggjmdelgaoj)
+- [uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh)
+- [RSS Reader Extension (by Inoreader)](https://chromewebstore.google.com/detail/detail/rss-reader-extension-by-i/kfimphpokifbjgmjflanmfeppcjimgah)
+- [贴吧签到助手](https://chromewebstore.google.com/detail/detail/bpheclmhommpomjoeoifcggjmdelgaoj)
 - [EditThisCookie](https://github.com/ETCExtensions/Edit-This-Cookie)
 - [SingleFile](https://github.com/gildas-lormeau/SingleFile)
 - [魂签](https://github.com/inu1255/soulsign-chrome)
@@ -634,22 +634,22 @@ options
 
 #### Unpinned
 
-- [Adobe Acrobat](https://chrome.google.com/webstore/detail/adobe-acrobat/efaidnbmnnnibpcajpcglclefindmkaj)
+- [Adobe Acrobat](https://chromewebstore.google.com/detail/detail/adobe-acrobat/efaidnbmnnnibpcajpcglclefindmkaj)
 - [Augmented Steam](https://github.com/tfedor/AugmentedSteam)
 - [EhSyringe](https://github.com/EhTagTranslation/EhSyringe)
 - [Git Master](https://github.com/ineo6/git-master)
-- [IDM Integration Module](https://chrome.google.com/webstore/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek)
+- [IDM Integration Module](https://chromewebstore.google.com/detail/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek)
 - [JSON Viewer](https://github.com/tulios/json-viewer)
 - [mirigana](https://github.com/mirigana/mirigana)
 - [Refined GitHub](https://github.com/refined-github/refined-github)
-- [ScrollAnywhere](https://chrome.google.com/webstore/detail/scrollanywhere/jehmdpemhgfgjblpkilmeoafmkhbckhi)
+- [ScrollAnywhere](https://chromewebstore.google.com/detail/detail/scrollanywhere/jehmdpemhgfgjblpkilmeoafmkhbckhi)
 - [Show YouTube comments while watching](https://github.com/tanguykurylo/show-youtube-comments)
 - [Soul++](https://github.com/FetchTheMoon/soul-plus-plus-chrome-extension)
 - [Steam Database](https://github.com/SteamDatabase/BrowserExtension)
-- [TabCopy](https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb)
+- [TabCopy](https://chromewebstore.google.com/detail/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb)
 - [WebRTC Leak Prevent](https://github.com/aghorler/WebRTC-Leak-Prevent)
-- [购物党自动比价工具](https://chrome.google.com/webstore/detail/%E8%B4%AD%E7%89%A9%E5%85%9A%E8%87%AA%E5%8A%A8%E6%AF%94%E4%BB%B7%E5%B7%A5%E5%85%B7/jgphnjokjhjlcnnajmfjlacjnjkhleah)
-- [Useful Forks](https://chrome.google.com/webstore/detail/useful-forks/aflbdmaojedofngiigjpnlabhginodbf)
+- [购物党自动比价工具](https://chromewebstore.google.com/detail/detail/%E8%B4%AD%E7%89%A9%E5%85%9A%E8%87%AA%E5%8A%A8%E6%AF%94%E4%BB%B7%E5%B7%A5%E5%85%B7/jgphnjokjhjlcnnajmfjlacjnjkhleah)
+- [Useful Forks](https://chromewebstore.google.com/detail/detail/useful-forks/aflbdmaojedofngiigjpnlabhginodbf)
 
 #### Not Using
 
