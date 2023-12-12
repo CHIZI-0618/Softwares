@@ -634,7 +634,6 @@ options
 
 #### Unpinned
 
-- [Adobe Acrobat](https://chromewebstore.google.com/detail/adobe-acrobat/efaidnbmnnnibpcajpcglclefindmkaj)
 - [Augmented Steam](https://github.com/tfedor/AugmentedSteam)
 - [EhSyringe](https://github.com/EhTagTranslation/EhSyringe)
 - [Git Master](https://github.com/ineo6/git-master)
@@ -648,13 +647,14 @@ options
 - [Steam Database](https://github.com/SteamDatabase/BrowserExtension)
 - [TabCopy](https://chromewebstore.google.com/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb)
 - [WebRTC Leak Prevent](https://github.com/aghorler/WebRTC-Leak-Prevent)
-- [购物党自动比价工具](https://chromewebstore.google.com/detail/%E8%B4%AD%E7%89%A9%E5%85%9A%E8%87%AA%E5%8A%A8%E6%AF%94%E4%BB%B7%E5%B7%A5%E5%85%B7/jgphnjokjhjlcnnajmfjlacjnjkhleah)
 - [Useful Forks](https://chromewebstore.google.com/detail/useful-forks/aflbdmaojedofngiigjpnlabhginodbf)
 
 #### Not Using
 
+- ~~[Adobe Acrobat](https://chromewebstore.google.com/detail/adobe-acrobat/efaidnbmnnnibpcajpcglclefindmkaj)~~
 - ~~[cat-catch](https://github.com/xifangczy/cat-catch)~~
 - ~~[FeHelper](https://github.com/zxlie/FeHelper)~~
+- ~~[购物党自动比价工具](https://chromewebstore.google.com/detail/%E8%B4%AD%E7%89%A9%E5%85%9A%E8%87%AA%E5%8A%A8%E6%AF%94%E4%BB%B7%E5%B7%A5%E5%85%B7/jgphnjokjhjlcnnajmfjlacjnjkhleah)~~
 - ~~[QZoneExport](https://github.com/ShunCai/QZoneExport)~~
 - ~~[uBlacklist](https://github.com/iorate/uBlacklist)、[中文搜索结果黑名单](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist)~~
 
