@@ -533,7 +533,7 @@ options
 - [Logitech G HUB](https://support.logi.com/hc/zh-cn/articles/360025298133)
 - [Intel Graphics Driver](https://www.intel.cn/content/www/cn/zh/download/19344/intel-graphics-windows-dch-drivers.html)、[arc version](https://www.intel.cn/content/www/cn/zh/download/726609/intel-arc-graphics-windows-dch-driver.html)、[Intel Extreme Tuning Utility](https://www.intel.cn/content/www/cn/zh/download/17881/intel-extreme-tuning-utility-intel-xtu.html)
 - [GeForce Drivers](https://www.nvidia.cn/Download/Find.aspx?lang=cn)、[Display Driver Uninstaller](https://www.wagnardsoft.com/display-driver-uninstaller-ddu-)
-- [Realtek High Definition Audio (HDA) Version WHQL](https://www.necacom.net/index.php/realtek/hda/)、[Realtek-UAD-generic](https://github.com/pal1000/Realtek-UAD-generic)
+- [Realtek High Definition Audio (HDA) Version WHQL](https://www.necacom.net/index.php/realtek/hd-audio-2)、[Realtek-UAD-generic](https://github.com/pal1000/Realtek-UAD-generic)
 - [Intel Wi-Fi Drivers](https://www.intel.cn/content/www/cn/zh/download/19351/windows-10-and-windows-11-wi-fi-drivers-for-intel-wireless-adapters.html)、[Intel Wireless Bluetooth](https://www.intel.cn/content/www/cn/zh/download/18649/intel-wireless-bluetooth-for-windows-10-and-windows-11.html)
 - [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer/releases)
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases)
