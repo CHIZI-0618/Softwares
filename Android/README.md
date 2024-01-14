@@ -54,7 +54,7 @@
 
 ## 漫画
 
-- [Tachiyomi](https://github.com/inorichi/tachiyomi)
+- [aniyomi](https://github.com/aniyomiorg/aniyomi/releases)
 
 <details><summary>Tchiyomi Extensions</summary>
 
@@ -64,7 +64,7 @@
 
 - Gufeng Manhua
 
-- Happymh(有CDN验证)
+- Happymh
 
 - Jinmantiantang
 
