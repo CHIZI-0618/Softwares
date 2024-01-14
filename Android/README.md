@@ -58,8 +58,6 @@
 
 <details><summary>Tchiyomi Extensions</summary>
 
-- Baimangu (Darpou)
-
 - E-Hentai
 
 - Gufeng Manhua
@@ -67,8 +65,6 @@
 - Happymh
 
 - Jinmantiantang
-
-- Mangabz
 
 - ManHuaDB
 
