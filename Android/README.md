@@ -72,7 +72,7 @@
 
 - ManHuaDB
 
-- ManHuaGui(网站经常维护)
+- NHentai
 
 - Picacomic
 
