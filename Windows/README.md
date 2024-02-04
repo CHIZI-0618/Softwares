@@ -568,6 +568,7 @@ options
 - [WinMerge](https://github.com/WinMerge/winmerge/releases)
 - [LocalSend](https://github.com/localsend/localsend/releases)
 - [Internet Download Manager](https://www.internetdownloadmanager.com/download.html)
+- [Parsec](https://parsec.app/downloads)
 
 ## Software List(Optional)
 
