@@ -1,4 +1,5 @@
 Linux桌面发行版个人主观排行：Ubuntu > Fedora > OpenSUSE > 其他发行版 > Arch = Gentoo(永远不要把时间浪费在配置系统上，这太蠢了)
+Linux桌面环境个人主观排行：GNOME > KDE > Xfce > 其他桌面环境
 
 <details>
 <summary>Useful Commands</summary>
