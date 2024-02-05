@@ -1,4 +1,4 @@
-Linux桌面发行版个人排行：Ubuntu > Fedora > OpenSUSE > 其他发行版
+Linux桌面发行版个人主观排行：Ubuntu > Fedora > OpenSUSE > 其他发行版
 
 <details>
 <summary>Useful Commands</summary>
