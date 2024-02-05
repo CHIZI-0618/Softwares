@@ -1,4 +1,4 @@
-# The best Linux distros for desktop ：[openSUSE(Tumbleweed)](https://www.opensuse.org/)
+Linux桌面发行版个人排行：Ubuntu > Fedora > OpenSUSE > 其他发行版
 
 <details>
 <summary>Useful Commands</summary>
