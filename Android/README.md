@@ -160,13 +160,11 @@
 
 - [Magisk](https://github.com/topjohnwu/Magisk)
 
-- ~~[【Magisk Module】safetynet-fix](https://github.com/kdrag0n/safetynet-fix/releases)~~
-
-- [【Magisk Module】PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix/releases)
+- ~~[【Magisk Module】safetynet-fix](https://github.com/kdrag0n/safetynet-fix/releases)~~、[【Magisk Module】PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix/releases)
 
 - [【Magisk Module】BootAnimation](https://t.me/MagiBoot)
 
-- ~~[【Magisk Module】MagiskTrustUserCerts](https://github.com/NVISOsecurity/MagiskTrustUserCerts)~~
+- ~~[【Magisk Module】MagiskTrustUserCerts](https://github.com/NVISOsecurity/MagiskTrustUserCerts)~~、[Move Certificates](https://github.com/ys1231/MoveCertificate)
 
 - [【Magisk Module】LSPosed](https://github.com/LSPosed/LSPosed/actions/workflows/core.yml?query=workflow%3ACore+branch%3Amaster)
 
