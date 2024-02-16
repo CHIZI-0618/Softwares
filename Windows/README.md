@@ -569,6 +569,7 @@ options
 - [LocalSend](https://github.com/localsend/localsend/releases)
 - [Internet Download Manager](https://www.internetdownloadmanager.com/download.html)
 - [Parsec](https://parsec.app/downloads)
+- [ShanaEncoder](https://shana.pe.kr/shanaencoder_download)
 
 ## Software List(Optional)
 
