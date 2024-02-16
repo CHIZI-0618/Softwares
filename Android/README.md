@@ -288,6 +288,8 @@
 
 - [交管 12123](https://122.gov.cn/)
 
+- 小米运动健康
+
 ## 购物
 
 - [京东](https://www.jd.com/)
@@ -332,4 +334,10 @@
 
 - 小米社区
 
+## Testing
+
 - [nRF Connect](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp)
+
+- 测试用APP1
+
+- 测试用APP2
