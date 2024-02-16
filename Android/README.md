@@ -130,9 +130,15 @@
 
 - [Github](https://github.com/mobile)
 
-## 无分组
+## 论坛
 
 - [X](https://play.google.com/store/apps/details?id=com.twitter.android)
+
+- ~~微博~~
+
+- ~~知乎~~
+
+## 无分组
 
 - [百度网盘](https://pan.baidu.com/download)
 
@@ -252,6 +258,8 @@
 
 - [爱玩机工具箱](https://www.coolapk.com/apk/com.byyoung.setting)
 
+- [SPIC](https://play.google.com/store/apps/details?id=com.henrikherzig.playintegritychecker)
+
 ## 无分组
 
 - [网易云音乐](https://music.163.com/#/download)
@@ -319,5 +327,7 @@
 - [飞猫盘](https://www.feimaoyun.com/app)
 
 - [Electrodoc Pro](https://play.google.com/store/apps/details?id=it.android.demi.elettronica.pro)
+
+- 小米社区
 
 - [nRF Connect](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp)
