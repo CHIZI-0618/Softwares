@@ -58,6 +58,8 @@
 
 <details><summary>Tchiyomi Extensions</summary>
 
+- COLAMANGA
+
 - E-Hentai
 
 - Gufeng Manhua
@@ -75,6 +77,14 @@
 </details>
 
 - [JHenTai](https://github.com/jiangtian616/JHenTai/releases)
+
+- ~~禁漫天堂~~
+
+- ~~哔咔漫画~~
+
+- ~~腾讯动漫~~
+
+- ~~快看漫画~~
 
 ## 视频直播
 
@@ -109,6 +119,8 @@
 - 网易BUFF
 
 ## 安全
+
+- [QQ安全中心](https://aq.qq.com/cn2/manage/mbtoken/app_index?id=index)
 
 - [Microsoft Authenticator](https://play.google.com/store/apps/details?id=com.azure.authenticator)
 
@@ -201,8 +213,6 @@
 - [微信](https://weixin.qq.com/)
 
 - [Telegram](https://telegram.org/android)
-
-- [QQ安全中心](https://aq.qq.com/cn2/manage/mbtoken/app_index?id=index)
 
 - [钉钉](https://www.dingtalk.com/download)
 
