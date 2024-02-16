@@ -202,6 +202,8 @@
 
 - [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt)
 
+- ~~[LibChecker](https://play.google.com/store/apps/details?id=com.absinthe.libchecker)~~
+
 ## Proxy
 
 - [v2rayNG](https://github.com/2dust/v2rayNG/releases)
@@ -221,6 +223,8 @@
 - [Telegram](https://telegram.org/android)
 
 - [钉钉](https://www.dingtalk.com/download)
+
+- ~~[Discord](https://play.google.com/store/apps/details?id=com.discord)~~
 
 ## 无分组
 
