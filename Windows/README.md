@@ -571,6 +571,8 @@ options
 - [Parsec](https://parsec.app/downloads)
 - [ShanaEncoder](https://shana.pe.kr/shanaencoder_download)
 - [uTools](https://www.u.tools/)
+- [Sysinternals](https://learn.microsoft.com/zh-cn/sysinternals/downloads/)
+- [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
 
 ## Software List(Optional)
 
