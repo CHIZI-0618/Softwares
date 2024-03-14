@@ -573,6 +573,8 @@ options
 - [uTools](https://www.u.tools/)
 - [Sysinternals](https://learn.microsoft.com/zh-cn/sysinternals/downloads/)
 - [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+- [ICAT](https://www.nvidia.cn/geforce/technologies/icat/)
+- [PicQuickCompare](https://github.com/Nigh/PicQuickCompare/releases)
 
 ## Software List(Optional)
 
