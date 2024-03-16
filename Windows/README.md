@@ -575,6 +575,7 @@ options
 - [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
 - [ICAT](https://www.nvidia.cn/geforce/technologies/icat/)
 - [PicQuickCompare](https://github.com/Nigh/PicQuickCompare/releases)
+- [Adguard](https://adguard.com/en/adguard-windows/overview.html)
 
 ## Software List(Optional)
 
@@ -623,16 +624,16 @@ options
 
 #### Pinned
 
+- [Adguard](https://adguard.com/en/adguard-browser-extension/overview.html)
 - [Tab Muter](https://github.com/sersorrel/mute-tab)
 - [哔哩哔哩助手](https://github.com/bilibili-helper/bilibili-helper-o)
 - [FireShot](https://chromewebstore.google.com/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg)
 - [Shazam](https://chromewebstore.google.com/detail/shazam-identify-songs-fro/mmioliijnhnoblpgimnlajmefafdfilb)
 - [Bitwarden](https://chromewebstore.google.com/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb)
-- [uBlock Origin](https://github.com/gorhill/uBlock)
-- [uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh)
 - [RSS Reader Extension (by Inoreader)](https://chromewebstore.google.com/detail/rss-reader-extension-by-i/kfimphpokifbjgmjflanmfeppcjimgah)
 - [贴吧签到助手](https://chromewebstore.google.com/detail/bpheclmhommpomjoeoifcggjmdelgaoj)
 - [EditThisCookie](https://github.com/ETCExtensions/Edit-This-Cookie)
+- [Screenity](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji)
 - [SingleFile](https://github.com/gildas-lormeau/SingleFile)
 - [魂签](https://github.com/inu1255/soulsign-chrome)
 - [Stylus](https://github.com/openstyles/stylus)
@@ -664,6 +665,8 @@ options
 - ~~[购物党自动比价工具](https://chromewebstore.google.com/detail/%E8%B4%AD%E7%89%A9%E5%85%9A%E8%87%AA%E5%8A%A8%E6%AF%94%E4%BB%B7%E5%B7%A5%E5%85%B7/jgphnjokjhjlcnnajmfjlacjnjkhleah)~~
 - ~~[QZoneExport](https://github.com/ShunCai/QZoneExport)~~
 - ~~[uBlacklist](https://github.com/iorate/uBlacklist)、[中文搜索结果黑名单](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist)~~
+- ~~[uBlock Origin](https://github.com/gorhill/uBlock)~~
+- ~~[uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh)~~
 
 <details><summary>字体及美化</summary>
 
