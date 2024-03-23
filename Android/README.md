@@ -76,7 +76,7 @@
 
 </details>
 
-- [JHenTai](https://github.com/jiangtian616/JHenTai/releases)
+- [JHenTai](https://github.com/jiangtian616/JHenTai/releases)、[Eros-FE](https://github.com/3003h/Eros-FE/releases)
 
 - ~~禁漫天堂~~
 
