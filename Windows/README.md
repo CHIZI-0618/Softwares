@@ -576,6 +576,7 @@ options
 - [ICAT](https://www.nvidia.cn/geforce/technologies/icat/)
 - [PicQuickCompare](https://github.com/Nigh/PicQuickCompare/releases)
 - [Adguard](https://adguard.com/en/adguard-windows/overview.html)
+- [PowerToys](https://github.com/microsoft/PowerToys/releases)
 
 ## Software List(Optional)
 
