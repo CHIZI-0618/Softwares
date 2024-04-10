@@ -10,7 +10,7 @@
       "geosite:category-games@cn",
       "store.steampowered.com"
     ],
-    "enabled": true
+    "enabled": false
   },
   {
     "outboundTag": "direct",
@@ -18,7 +18,7 @@
       "geosite:paypal",
       "matsuri.icu"
     ],
-    "enabled": false
+    "enabled": true
   },
   {
     "outboundTag": "proxy",
