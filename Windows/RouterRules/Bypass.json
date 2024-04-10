@@ -2,17 +2,23 @@
   {
     "outboundTag": "block",
     "domain": ["domain:mcdn.bilivideo.cn"],
-    "enabled": true
+    "enabled": false
   },
   {
     "outboundTag": "direct",
     "domain": [
       "geosite:category-games@cn",
-      "geosite:paypal",
-      "matsuri.icu",
       "store.steampowered.com"
     ],
     "enabled": true
+  },
+  {
+    "outboundTag": "direct",
+    "domain": [
+      "geosite:paypal",
+      "matsuri.icu"
+    ],
+    "enabled": false
   },
   {
     "outboundTag": "proxy",
