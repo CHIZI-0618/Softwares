@@ -204,15 +204,15 @@ vasma
 <summary>自用初始化脚本</summary>
 
 ```shell
-curl https://raw.githubusercontent.com/SekiBetu/Softwares/main/Linux/init.sh | bash
+curl https://raw.githubusercontent.com/SekiBetu/memo/main/Linux/init.sh | bash
 ```
 
 ```shell
-curl https://raw.githubusercontent.com/SekiBetu/Softwares/main/Linux/init2.sh | bash
+curl https://raw.githubusercontent.com/SekiBetu/memo/main/Linux/init2.sh | bash
 ```
 
 ```shell
-curl https://raw.githubusercontent.com/SekiBetu/Softwares/main/Linux/restart.sh | bash
+curl https://raw.githubusercontent.com/SekiBetu/memo/main/Linux/restart.sh | bash
 ```
 
 </details>
