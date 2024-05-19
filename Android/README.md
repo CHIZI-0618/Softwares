@@ -220,7 +220,7 @@
 
 - [LiveBoot](https://play.google.com/store/apps/details?id=eu.chainfire.liveboot)
 
-
+- [SPIC](https://play.google.com/store/apps/details?id=com.henrikherzig.playintegritychecker)
 
 ## Proxy
 
@@ -242,8 +242,6 @@
 
 - [钉钉](https://www.dingtalk.com/download)
 
-- ~~[Discord](https://play.google.com/store/apps/details?id=com.discord)~~
-
 ## 无分组
 
 - [Inoreader](https://play.google.com/store/apps/details?id=com.innologica.inoreader)
@@ -260,7 +258,7 @@
 
 - 设置
 
-- 主题壁纸
+- 主题商店
 
 - 手机管家
 
@@ -270,17 +268,19 @@
 
 - 时钟
 
-- 屏幕录制
+- 指南针
+
+- 小爱视觉
 
 - 录音机
 
-- 指南针
+- 浏览器
 
-- 扫一扫
+- 服务与反馈
+
+- Settings(Magisk)
 
 - [爱玩机工具箱](https://www.coolapk.com/apk/com.byyoung.setting)
-
-- [SPIC](https://play.google.com/store/apps/details?id=com.henrikherzig.playintegritychecker)
 
 ## 无分组
 
@@ -320,15 +320,13 @@
 
 - [闲鱼](https://2.taobao.com/)
 
+- 小米商城
+
 ## 营业厅
 
-- [中国移动](http://www.10086.cn/cmccclient/indexc_new.html)
-
-- [电信营业厅](http://www.189.cn/client/)
+- [中国工商银行](https://icbc.com.cn/ICBC/%e7%94%b5%e5%ad%90%e9%93%b6%e8%a1%8c/%e5%ae%a2%e6%88%b7%e7%ab%af%e4%b8%8b%e8%bd%bd/default.htm)
 
 - [中国建设银行](https://appgallery.huawei.com/app/C10092701)
-
-- [中国工商银行](https://icbc.com.cn/ICBC/%e7%94%b5%e5%ad%90%e9%93%b6%e8%a1%8c/%e5%ae%a2%e6%88%b7%e7%ab%af%e4%b8%8b%e8%bd%bd/default.htm)
 
 - ~~[浙里办](https://www.zjzwfw.gov.cn/col/col1229640638/index.html)~~
 
@@ -348,11 +346,7 @@
 
 ## 无分组
 
-- [飞猫盘](https://www.feimaoyun.com/app)
-
 - [Electrodoc Pro](https://play.google.com/store/apps/details?id=it.android.demi.elettronica.pro)
-
-- 小米社区
 
 ## Testing
 
@@ -361,3 +355,5 @@
 - 测试用APP1
 
 - 测试用APP2
+
+- 测试用APP3
