@@ -96,11 +96,11 @@
 
 - [腾讯动漫](https://ac.qq.com/)
 
-- [快看漫画]()
+- [快看漫画](https://www.kkmh.com/webs/download)
 
-- [JavDB]()
+- [JavDB](https://github.com/bdvajstudio/javdb/releases)
 
-- [阅读]()
+- [阅读](https://github.com/gedoor/legado/releases)
 
 ## 视频直播
 
@@ -126,13 +126,9 @@
 
 - [TapTap](https://www.taptap.com/mobile)
 
-- DNF助手
+- [网易BUFF](https://buff.163.com/app/)
 
-- Colg玩家社区
-
-- NGA玩家社区
-
-- 网易BUFF
+- [一念逍遥](https://xian.leiting.com/)
 
 ## 安全
 
@@ -144,19 +140,23 @@
 
 - [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)
 
-- [Github](https://github.com/mobile)
-
 ## 论坛
 
 - [X](https://play.google.com/store/apps/details?id=com.twitter.android)
 
-- ~~微博~~
+- [Github](https://github.com/mobile)
 
-- ~~知乎~~
+- [微博](https://c.weibo.cn/)
 
-## 无分组
+- [知乎](https://www.zhihu.com/app/)
+
+## 存储下载
 
 - [百度网盘](https://pan.baidu.com/download)
+
+- [迅雷](https://mobile.xunlei.com/)
+
+- [飞猫盘](https://www.feimaoyun.com/)
 
 ## 外卖
 
@@ -192,7 +192,7 @@
 
 - [ZArchiver Pro](https://www.423down.com/6027.html)
 
-- DeepL(PWA)
+- [DeepL](https://play.google.com/store/apps/details?id=com.deepl.mobiletranslator)
 
 - [MT 管理器](https://bbs.binmt.cc/forum-2-1.html)
 
@@ -216,7 +216,11 @@
 
 - [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt)
 
-- ~~[LibChecker](https://play.google.com/store/apps/details?id=com.absinthe.libchecker)~~
+- [LibChecker](https://play.google.com/store/apps/details?id=com.absinthe.libchecker)
+
+- [LiveBoot](https://play.google.com/store/apps/details?id=eu.chainfire.liveboot)
+
+
 
 ## Proxy
 
