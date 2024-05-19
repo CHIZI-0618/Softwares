@@ -58,7 +58,15 @@
 
 <details><summary>Tchiyomi Extensions</summary>
 
+- 6Manhua
+
+- Baozi Manhua
+
+- Baozimh.org
+
 - COLAMANGA
+
+- DM5
 
 - E-Hentai
 
@@ -70,7 +78,11 @@
 
 - ManHuaDB
 
+- Miaoshang Manhua
+
 - NHentai
+
+- nHentai.com(unoriginal)
 
 - Picacomic
 
@@ -78,13 +90,17 @@
 
 - [JHenTai](https://github.com/jiangtian616/JHenTai/releases)、[Eros-FE](https://github.com/3003h/Eros-FE/releases)
 
-- ~~禁漫天堂~~
+- [禁漫天堂](https://18comic.vip/stray/)
 
-- ~~哔咔漫画~~
+- [哔咔漫画](https://www.picacomic.com/)
 
-- ~~腾讯动漫~~
+- [腾讯动漫](https://ac.qq.com/)
 
-- ~~快看漫画~~
+- [快看漫画]()
+
+- [JavDB]()
+
+- [阅读]()
 
 ## 视频直播
 
