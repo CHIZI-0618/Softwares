@@ -220,7 +220,7 @@
 
 - [LiveBoot](https://play.google.com/store/apps/details?id=eu.chainfire.liveboot)
 
-- [SPIC](https://play.google.com/store/apps/details?id=com.henrikherzig.playintegritychecker)
+- ~~[SPIC](https://play.google.com/store/apps/details?id=com.henrikherzig.playintegritychecker)~~
 
 ## Proxy
 
