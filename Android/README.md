@@ -188,7 +188,7 @@
 
 - [【LSPosed Module】DisableFlagSecure](https://github.com/LSPosed/DisableFlagSecure/releases)
 
-- ~~[【LSPosed Module】JustTrustMe](https://github.com/SekiBetu/JustTrustMe/releases)~~
+- ~~[【LSPosed Module】JustTrustMe](https://github.com/SekiBetu/JustTrustMe/releases)~~、[SSL KiLLER](https://github.com/Xposed-Modules-Repo/com.simo.ssl.killer)
 
 - [ZArchiver Pro](https://www.423down.com/6027.html)
 
