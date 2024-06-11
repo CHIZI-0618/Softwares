@@ -557,7 +557,7 @@ options
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp/releases) `pip3 install --upgrade git+https://github.com/yt-dlp/yt-dlp.git` 、[youtube-dl(pip)](https://github.com/ytdl-org/youtube-dl/releases) `pip3 install --upgrade git+https://github.com/ytdl-org/youtube-dl.git` 、[Streamlink(pip)](https://github.com/streamlink/streamlink/releases) `pip3 install --upgrade git+https://github.com/streamlink/streamlink.git`
 - [Snipaste](https://www.snipaste.com/)、[PixPin](https://pixpinapp.com/)
 - [MPV](https://github.com/hooke007/MPV_lazy)、[Potplayer](https://www.423down.com/3050.html)
-- [Honeyview](https://www.bandisoft.com/honeyview/)、[NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home)、[ImageGlass](https://github.com/d2phap/ImageGlass/releases)
+- ~~[Bandiview](https://www.bandisoft.com/bandiview/)~~、~~[NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home)~~、~~[qView](https://github.com/jurplel/qView/releases)~~、[ImageGlass](https://github.com/d2phap/ImageGlass/releases)
 - [Adobe software series](https://weibo.com/1112829033)
 - [百度云](http://pan.baidu.com/download)
 - [CCleaner](https://www.423down.com/716.html)、[Winapp2](https://github.com/MoscaDotTo/Winapp2)
