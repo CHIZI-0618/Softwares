@@ -616,6 +616,7 @@ options
 - [MySQL](https://dev.mysql.com/downloads/windows/installer/5.7.html)
 - [PowerShell](https://github.com/PowerShell/PowerShell/releases)
 - [TDM-GCC](https://jmeubank.github.io/tdm-gcc/)
+- [Navicat Premium Lite](https://www.navicat.com.cn/products/navicat-premium-lite)
 
 ## 开始菜单布局
 
