@@ -234,8 +234,8 @@ sudo apt update && sudo apt install -y temurin-21-jdk
 https://dev.mysql.com/downloads/repo/apt/
 
 ```shell
-curl -OJL https://dev.mysql.com/get/mysql-apt-config_0.8.22-1_all.deb
-sudo apt install ./mysql-apt-config_0.8.22-1_all.deb ; rm mysql-apt-config_0.8.22-1_all.deb
+curl -OJL https://dev.mysql.com/get/mysql-apt-config_0.8.30-1_all.deb
+sudo apt install ./mysql-apt-config_0.8.30-1_all.deb ; rm mysql-apt-config_0.8.30-1_all.deb
 sudo apt update && sudo apt install -y mysql-server
 sudo mysql_secure_installation
 ```
@@ -287,7 +287,7 @@ https://github.com/JustArchiNET/ArchiSteamFarm/releases/
 https://github.com/chr233/ASFEnhance/releases
 
 ```shell
-curl -OJL https://github.com/JustArchiNET/ArchiSteamFarm/releases/latest/download/ASF-linux-x64.zip ; 7zz x ASF-linux-x64.zip -d ASF/
+curl -OJL https://github.com/JustArchiNET/ArchiSteamFarm/releases/latest/download/ASF-linux-x64.zip ; 7zz x ASF-linux-x64.zip -oASF
 rm ASF-linux-x64.zip ; cd ASF/ ; chmod +x ArchiSteamFarm
 cd config/ ; curl -OJL https://github.com/chr233/ASFEnhance/releases/latest/download/ASFEnhance-zh-Hans.zip ; 7zz x ASFEnhance-zh-Hans.zip ; rm ASFEnhance-zh-Hans.zip
 ```
@@ -309,8 +309,8 @@ mkdir -p mirai ; cd mirai
 curl -OJL https://github.com/iTXTech/mirai-console-loader/releases/download/v2.1.2/mcl-2.1.2.zip
 7zz x mcl-2.1.2.zip ; chmod +x mcl
 mkdir -p plugins ; cd plugins
-curl -OJL https://github.com/cssxsh/bilibili-helper/releases/download/v1.6.7/bilibili-helper-1.6.7.mirai2.jar
-curl -OJL https://github.com/project-mirai/chat-command/releases/download/0.5.1/chat-command-0.5.1.jar
+curl -OJL https://github.com/cssxsh/bilibili-helper/releases/download/v1.8.0/bilibili-helper-1.8.0.mirai2.jar
+curl -OJL https://github.com/project-mirai/chat-command/releases/download/0.6.0/chat-command-0.6.0.jar
 cd .. ; ./mcl -u
 
 # config.json 换源
