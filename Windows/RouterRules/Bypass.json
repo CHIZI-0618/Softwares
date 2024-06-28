@@ -1,10 +1,5 @@
 [
   {
-    "outboundTag": "block",
-    "domain": ["domain:mcdn.bilivideo.cn"],
-    "enabled": false
-  },
-  {
     "outboundTag": "direct",
     "domain": [
       "geosite:category-games@cn",
@@ -15,8 +10,7 @@
   {
     "outboundTag": "direct",
     "domain": [
-      "geosite:paypal",
-      "matsuri.icu"
+      "geosite:paypal"
     ],
     "enabled": true
   },
