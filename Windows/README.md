@@ -526,23 +526,23 @@ options
 - [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts/releases)、[CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition/releases)、`irm https://massgrave.dev/get | iex`
 - [v2rayN](https://github.com/2dust/v2rayN/releases)
 - [搜狗输入法](https://pinyin.sogou.com/)
-- [Bandizip](https://www.bandisoft.com/bandizip/dl/)、[patch](https://www.423down.com/9735.html)、[7-Zip](https://www.7-zip.org/)、[NanaZip](https://github.com/M2Team/NanaZip/releases)
-- [Chrome](https://www.google.com/intl/zh-CN/chrome/browser/thankyou.html?platform=win64&standalone=1&statcb=1&installdataindex=defaultbrowser)、[FireFox](https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release)
+- ~~[Bandizip](https://www.bandisoft.com/bandizip/dl/)~~、~~[patch](https://www.423down.com/9735.html)~~、[7-Zip](https://www.7-zip.org/)、[NanaZip](https://github.com/M2Team/NanaZip/releases)
+- [Chrome](https://www.google.com/intl/zh-CN/chrome/browser/thankyou.html?platform=win64&standalone=1&statcb=1&installdataindex=defaultbrowser)、~~[FireFox](https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release)~~
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [火绒](https://www.huorong.cn/person5.html)
 - [Logitech G HUB](https://support.logi.com/hc/zh-cn/articles/360025298133)
-- [Intel Graphics Driver](https://www.intel.cn/content/www/cn/zh/download/785597/intel-arc-iris-xe-graphics-windows.html)、[Intel Extreme Tuning Utility](https://www.intel.cn/content/www/cn/zh/download/17881/intel-extreme-tuning-utility-intel-xtu.html)
+- ~~[Intel Graphics Driver](https://www.intel.cn/content/www/cn/zh/download/785597/intel-arc-iris-xe-graphics-windows.html)~~、[Intel Extreme Tuning Utility](https://www.intel.cn/content/www/cn/zh/download/17881/intel-extreme-tuning-utility-intel-xtu.html)
 - [NVIDIA App](https://www.nvidia.cn/software/nvidia-app/)、[GeForce Drivers](https://www.nvidia.cn/Download/Find.aspx?lang=cn)、[Display Driver Uninstaller](https://www.wagnardsoft.com/display-driver-uninstaller-ddu-)
-- [Realtek High Definition Audio (HDA) Version WHQL](https://www.necacom.net/index.php/realtek/hd-audio-2)、[Realtek-UAD-generic](https://github.com/pal1000/Realtek-UAD-generic)
+- [Realtek High Definition Audio (HDA) Version WHQL](https://www.necacom.net/index.php/realtek/hd-audio-2)、~~[Realtek-UAD-generic](https://github.com/pal1000/Realtek-UAD-generic)~~
 - [Intel Wi-Fi Drivers](https://www.intel.cn/content/www/cn/zh/download/19351/windows-10-and-windows-11-wi-fi-drivers-for-intel-wireless-adapters.html)、[Intel Wireless Bluetooth](https://www.intel.cn/content/www/cn/zh/download/18649/intel-wireless-bluetooth-for-windows-10-and-windows-11.html)
 - [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer/releases)
-- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases)
+- ~~[TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases)~~
 - [OpenHashTab](https://github.com/namazso/OpenHashTab/releases)
 - [Everything](https://www.voidtools.com/zh-cn/downloads/)
 - [Office Tool Plus](https://github.com/YerongAI/Office-Tool/releases)
-- [QQ](https://im.qq.com/download/)、[RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)
+- [QQ](https://im.qq.com/download/)、[RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)、[LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT)
 - [Steam](https://store.steampowered.com/about/)
-- [Ubisoft Connect](https://ubisoftconnect.com/zh-CN/)
+- ~~[Ubisoft Connect](https://ubisoftconnect.com/zh-CN/)~~
 - [WeGame](https://www.wegame.com.cn/)
 - [HandBrake](https://github.com/HandBrake/HandBrake/releases)
 - [便笺](https://www.microsoft.com/en-us/p/microsoft-sticky-notes/9nblggh4qghw)
@@ -554,16 +554,16 @@ options
 - [aria2](https://github.com/aria2/aria2/releases)
 - [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases)
 - [N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI/releases)、[N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE)
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp/releases) `pip3 install --upgrade git+https://github.com/yt-dlp/yt-dlp.git` 、[youtube-dl(pip)](https://github.com/ytdl-org/youtube-dl/releases) `pip3 install --upgrade git+https://github.com/ytdl-org/youtube-dl.git` 、[Streamlink(pip)](https://github.com/streamlink/streamlink/releases) `pip3 install --upgrade git+https://github.com/streamlink/streamlink.git`
-- [Snipaste](https://www.snipaste.com/)、[PixPin](https://pixpinapp.com/)
-- [MPV](https://github.com/hooke007/MPV_lazy)、[Potplayer](https://www.423down.com/3050.html)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp/releases) `pip3 install --upgrade git+https://github.com/yt-dlp/yt-dlp.git` 、~~[youtube-dl(pip)](https://github.com/ytdl-org/youtube-dl/releases) `pip3 install --upgrade git+https://github.com/ytdl-org/youtube-dl.git`~~ 、[Streamlink(pip)](https://github.com/streamlink/streamlink/releases) `pip3 install --upgrade git+https://github.com/streamlink/streamlink.git`
+- ~~[Snipaste](https://www.snipaste.com/)~~、[PixPin](https://pixpinapp.com/)
+- [MPV](https://github.com/hooke007/MPV_lazy)、~~[Potplayer](https://www.423down.com/3050.html)~~
 - ~~[Bandiview](https://www.bandisoft.com/bandiview/)~~、~~[NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home)~~、~~[qView](https://github.com/jurplel/qView/releases)~~、[ImageGlass](https://github.com/d2phap/ImageGlass/releases)
 - [Adobe software series](https://weibo.com/1112829033)
 - [百度云](http://pan.baidu.com/download)
 - [CCleaner](https://www.423down.com/716.html)、[Winapp2](https://github.com/MoscaDotTo/Winapp2)
 - [Telegram](https://telegram.org/)
 - [雷神加速器](https://www.leigod.com/)
-- [蓝叠模拟器国际版](https://www.bluestacks.com/download.html)、[夜神模拟器](https://www.yeshen.com/)、[雷电安卓模拟器](https://www.ldmnq.com/)
+- [MuMu模拟器](https://mumu.163.com/)
 - [qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases)、[tracker](https://github.com/XIU2/TrackersListCollection)、[tracker2](https://github.com/ngosang/trackerslist)
 - [WinMerge](https://github.com/WinMerge/winmerge/releases)
 - [LocalSend](https://github.com/localsend/localsend/releases)
@@ -581,8 +581,6 @@ options
 ## Software List(Optional)
 
 - [Ventoy](https://github.com/ventoy/Ventoy/releases)、[UltraISO](https://www.ghpym.com/ultraiso.html)、[WinISO](https://www.ghxi.com/winiso.html)、[rufus](https://github.com/pbatard/rufus/releases)
-- [Groupy](https://store.powered.com/app/912170)
-- [Start11](https://store.powered.com/app/1811010/Start11)
 - [BilibiliLiveRecordDownLoader](https://github.com/HMBSbige/BilibiliLiveRecordDownLoader/releases)、[DDTV](https://github.com/CHKZL/DDTV/releases)
 - [K-Lite Codec Pack Mega](https://codecguide.com/download_k-lite_codec_pack_mega.htm)
 - [Cheat Engine](https://cheatengine.org/)
@@ -590,7 +588,7 @@ options
 - [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI/releases)
 - [Open Broadcaster Software](https://obsproject.com/download)
 - [drawio](https://github.com/jgraph/drawio)
-- [VMware Workstation](https://www.ghpym.com/workstationlite.html)
+- [VMware Workstation](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro)
 - [SteamAchievementManager](https://github.com/syntax-tm/SteamAchievementManager/releases)、[SAM-Auto](https://github.com/SekiBetu/SAM-Auto/releases)、[Steam Achievement Abuser](https://github.com/Luois45/Steam-Achievement-Abuser/releases)
 - [NatTypeTester](https://github.com/HMBSbige/NatTypeTester/releases)
 - [IObit IObitUninstaller](https://www.423down.com/7732.html)
@@ -633,11 +631,8 @@ options
 - [Shazam](https://chromewebstore.google.com/detail/shazam-identify-songs-fro/mmioliijnhnoblpgimnlajmefafdfilb)
 - [Bitwarden](https://chromewebstore.google.com/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb)
 - [RSS Reader Extension (by Inoreader)](https://chromewebstore.google.com/detail/rss-reader-extension-by-i/kfimphpokifbjgmjflanmfeppcjimgah)
-- [贴吧签到助手](https://chromewebstore.google.com/detail/bpheclmhommpomjoeoifcggjmdelgaoj)
 - [EditThisCookie](https://github.com/ETCExtensions/Edit-This-Cookie)
-- [Screenity](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji)
 - [SingleFile](https://github.com/gildas-lormeau/SingleFile)
-- [魂签](https://github.com/inu1255/soulsign-chrome)
 - [Stylus](https://github.com/openstyles/stylus)
 - [Dark Reader](https://github.com/darkreader/darkreader/releases)
 - [Violentmonkey](https://github.com/violentmonkey/violentmonkey)
@@ -646,14 +641,12 @@ options
 
 - [Augmented Steam](https://github.com/tfedor/AugmentedSteam)
 - [EhSyringe](https://github.com/EhTagTranslation/EhSyringe)
-- [Git Master](https://github.com/ineo6/git-master)
 - [IDM Integration Module](https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek)
 - [JSON Viewer](https://github.com/tulios/json-viewer)
 - [mirigana](https://github.com/mirigana/mirigana)
 - [Refined GitHub](https://github.com/refined-github/refined-github)
 - [ScrollAnywhere](https://chromewebstore.google.com/detail/scrollanywhere/jehmdpemhgfgjblpkilmeoafmkhbckhi)
 - [Show YouTube comments while watching](https://github.com/tanguykurylo/show-youtube-comments)
-- [Soul++](https://github.com/FetchTheMoon/soul-plus-plus-chrome-extension)
 - [Steam Database](https://github.com/SteamDatabase/BrowserExtension)
 - [TabCopy](https://chromewebstore.google.com/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb)
 - [WebRTC Leak Prevent](https://github.com/aghorler/WebRTC-Leak-Prevent)
@@ -664,8 +657,12 @@ options
 - ~~[Adobe Acrobat](https://chromewebstore.google.com/detail/adobe-acrobat/efaidnbmnnnibpcajpcglclefindmkaj)~~
 - ~~[cat-catch](https://github.com/xifangczy/cat-catch)~~
 - ~~[FeHelper](https://github.com/zxlie/FeHelper)~~
+- ~~[Git Master](https://github.com/ineo6/git-master)~~
 - ~~[购物党自动比价工具](https://chromewebstore.google.com/detail/%E8%B4%AD%E7%89%A9%E5%85%9A%E8%87%AA%E5%8A%A8%E6%AF%94%E4%BB%B7%E5%B7%A5%E5%85%B7/jgphnjokjhjlcnnajmfjlacjnjkhleah)~~
 - ~~[QZoneExport](https://github.com/ShunCai/QZoneExport)~~
+- ~~[Screenity](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji)~~
+- ~~[Soul++](https://github.com/FetchTheMoon/soul-plus-plus-chrome-extension)~~
+- ~~[贴吧签到助手](https://chromewebstore.google.com/detail/bpheclmhommpomjoeoifcggjmdelgaoj)~~
 - ~~[uBlacklist](https://github.com/iorate/uBlacklist)、[中文搜索结果黑名单](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist)~~
 - ~~[uBlock Origin](https://github.com/gorhill/uBlock)~~
 - ~~[uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh)~~
@@ -674,7 +671,7 @@ options
 
 - [更纱黑体(Iosevka+思源黑体)](https://github.com/be5invis/Sarasa-Gothic/releases)
 
-- [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono/releases)
+- [JetBrainsMono](https://github.com/ryanoasis/nerd-fonts/releases)
 
 - [致美化](https://zhutix.com/)
 </details>
