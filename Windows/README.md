@@ -396,17 +396,12 @@ Override software rendering list
 Smooth Scrolling
 【Chrome Only】Overlay Scrollbars
 GPU rasterization
-【Chrome Only】Windows Fluent scrollbars.
+Fluent overlay scrollbars.
 Parallel downloading
 【Chrome Only】Windows 11 Mica titlebar
-【Chrome Only】Chrome Refresh 2023
-【Chrome Only】Chrome WebUI Refresh 2023
-【Chrome Only】Enable download bubble
-【Chrome Only】Enable download bubble V2
-【Edge Only】Microsoft Edge Share Menu
+【Edge Only】Fluent scrollbars.
+【Edge Only】Show Windows 11 visual effects in browser
 【Edge Only】Make Rounded Tabs feature available
-【Edge Only】Windows Fluent scrollbars.
-【Edge Only】Enable Windows 11 Acrylic effect in menus
 ```
 
 </details>
