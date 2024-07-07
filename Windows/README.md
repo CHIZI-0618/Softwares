@@ -521,8 +521,8 @@ options
 - [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts/releases)、[CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition/releases)、`irm https://massgrave.dev/get | iex`
 - [v2rayN](https://github.com/2dust/v2rayN/releases)
 - [搜狗输入法](https://pinyin.sogou.com/)
-- ~~[Bandizip](https://www.bandisoft.com/bandizip/dl/)~~、~~[patch](https://www.423down.com/9735.html)~~、[7-Zip](https://www.7-zip.org/)、[NanaZip](https://github.com/M2Team/NanaZip/releases)
-- [Chrome](https://www.google.com/intl/zh-CN/chrome/browser/thankyou.html?platform=win64&standalone=1&statcb=1&installdataindex=defaultbrowser)、~~[FireFox](https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release)~~
+- [7-Zip](https://www.7-zip.org/)、[NanaZip](https://github.com/M2Team/NanaZip/releases)
+- [Chrome](https://www.google.com/intl/zh-CN/chrome/browser/thankyou.html?platform=win64&standalone=1&statcb=1&installdataindex=defaultbrowser)、[Edge](https://www.microsoft.com/zh-cn/edge/download?form=MA13FJ)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [火绒](https://www.huorong.cn/person5.html)
 - [Logitech G HUB](https://support.logi.com/hc/zh-cn/articles/360025298133)
@@ -531,7 +531,6 @@ options
 - [Realtek High Definition Audio (HDA) Version WHQL](https://www.necacom.net/index.php/realtek/hd-audio-2)、~~[Realtek-UAD-generic](https://github.com/pal1000/Realtek-UAD-generic)~~
 - [Intel Wi-Fi Drivers](https://www.intel.cn/content/www/cn/zh/download/19351/windows-10-and-windows-11-wi-fi-drivers-for-intel-wireless-adapters.html)、[Intel Wireless Bluetooth](https://www.intel.cn/content/www/cn/zh/download/18649/intel-wireless-bluetooth-for-windows-10-and-windows-11.html)
 - [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer/releases)
-- ~~[TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor/releases)~~
 - [OpenHashTab](https://github.com/namazso/OpenHashTab/releases)
 - [Everything](https://www.voidtools.com/zh-cn/downloads/)
 - [Office Tool Plus](https://github.com/YerongAI/Office-Tool/releases)
@@ -552,7 +551,7 @@ options
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp/releases) `pip3 install --upgrade git+https://github.com/yt-dlp/yt-dlp.git` 、~~[youtube-dl(pip)](https://github.com/ytdl-org/youtube-dl/releases) `pip3 install --upgrade git+https://github.com/ytdl-org/youtube-dl.git`~~ 、[Streamlink(pip)](https://github.com/streamlink/streamlink/releases) `pip3 install --upgrade git+https://github.com/streamlink/streamlink.git`
 - ~~[Snipaste](https://www.snipaste.com/)~~、[PixPin](https://pixpinapp.com/)
 - [MPV](https://github.com/hooke007/MPV_lazy)、~~[Potplayer](https://www.423down.com/3050.html)~~
-- ~~[Bandiview](https://www.bandisoft.com/bandiview/)~~、~~[NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home)~~、~~[qView](https://github.com/jurplel/qView/releases)~~、[ImageGlass](https://github.com/d2phap/ImageGlass/releases)
+- ~~[NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home)~~、~~[qView](https://github.com/jurplel/qView/releases)~~、[ImageGlass](https://github.com/d2phap/ImageGlass/releases)
 - [Adobe software series](https://weibo.com/1112829033)
 - [百度云](http://pan.baidu.com/download)
 - [CCleaner](https://www.423down.com/716.html)、[Winapp2](https://github.com/MoscaDotTo/Winapp2)
@@ -652,14 +651,10 @@ options
 - ~~[Adobe Acrobat](https://chromewebstore.google.com/detail/adobe-acrobat/efaidnbmnnnibpcajpcglclefindmkaj)~~
 - ~~[cat-catch](https://github.com/xifangczy/cat-catch)~~
 - ~~[FeHelper](https://github.com/zxlie/FeHelper)~~
-- ~~[Git Master](https://github.com/ineo6/git-master)~~
-- ~~[购物党自动比价工具](https://chromewebstore.google.com/detail/%E8%B4%AD%E7%89%A9%E5%85%9A%E8%87%AA%E5%8A%A8%E6%AF%94%E4%BB%B7%E5%B7%A5%E5%85%B7/jgphnjokjhjlcnnajmfjlacjnjkhleah)~~
 - ~~[QZoneExport](https://github.com/ShunCai/QZoneExport)~~
 - ~~[Screenity](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji)~~
-- ~~[Soul++](https://github.com/FetchTheMoon/soul-plus-plus-chrome-extension)~~
 - ~~[贴吧签到助手](https://chromewebstore.google.com/detail/bpheclmhommpomjoeoifcggjmdelgaoj)~~
 - ~~[uBlacklist](https://github.com/iorate/uBlacklist)、[中文搜索结果黑名单](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist)~~
-- ~~[uBlock Origin](https://github.com/gorhill/uBlock)~~
 - ~~[uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh)~~
 
 <details><summary>字体及美化</summary>
