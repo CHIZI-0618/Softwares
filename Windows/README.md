@@ -538,7 +538,7 @@ options
 - [Steam](https://store.steampowered.com/about/)
 - ~~[Ubisoft Connect](https://ubisoftconnect.com/zh-CN/)~~
 - [WeGame](https://www.wegame.com.cn/)
-- [HandBrake](https://github.com/HandBrake/HandBrake/releases)
+- [HandBrake](https://github.com/HandBrake/HandBrake/releases)、[ShanaEncoder](https://shana.pe.kr/shanaencoder_download)
 - [便笺](https://www.microsoft.com/en-us/p/microsoft-sticky-notes/9nblggh4qghw)
 - [Shotcut](https://github.com/mltframework/shotcut/releases)
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases)
@@ -562,15 +562,9 @@ options
 - [WinMerge](https://github.com/WinMerge/winmerge/releases)
 - [LocalSend](https://github.com/localsend/localsend/releases)
 - [Internet Download Manager](https://www.internetdownloadmanager.com/download.html)
-- [Parsec](https://parsec.app/downloads)
-- [ShanaEncoder](https://shana.pe.kr/shanaencoder_download)
-- [uTools](https://www.u.tools/)
-- [Sysinternals](https://learn.microsoft.com/zh-cn/sysinternals/downloads/)
-- [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
-- [ICAT](https://www.nvidia.cn/geforce/technologies/icat/)
-- [PicQuickCompare](https://github.com/Nigh/PicQuickCompare/releases)
 - [Adguard](https://adguard.com/en/adguard-windows/overview.html)
 - [PowerToys](https://github.com/microsoft/PowerToys/releases)
+- [IObit IObitUninstaller](https://www.423down.com/7732.html)
 
 ## Software List(Optional)
 
@@ -585,10 +579,15 @@ options
 - [VMware Workstation](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro)
 - [SteamAchievementManager](https://github.com/syntax-tm/SteamAchievementManager/releases)、[SAM-Auto](https://github.com/SekiBetu/SAM-Auto/releases)、[Steam Achievement Abuser](https://github.com/Luois45/Steam-Achievement-Abuser/releases)
 - [NatTypeTester](https://github.com/HMBSbige/NatTypeTester/releases)
-- [IObit IObitUninstaller](https://www.423down.com/7732.html)
 - [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit/releases)
 - [Audacity](https://github.com/audacity/audacity/releases)
 - [Driver Booster](https://www.423down.com/10421.html)
+- [Parsec](https://parsec.app/downloads)
+- [uTools](https://www.u.tools/)
+- [Sysinternals](https://learn.microsoft.com/zh-cn/sysinternals/downloads/)
+- [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+- [ICAT](https://www.nvidia.cn/geforce/technologies/icat/)
+- [PicQuickCompare](https://github.com/Nigh/PicQuickCompare/releases)
 
 #### Recovery
 
