@@ -534,7 +534,7 @@ options
 - [OpenHashTab](https://github.com/namazso/OpenHashTab/releases)
 - [Everything](https://www.voidtools.com/zh-cn/downloads/)
 - [Office Tool Plus](https://github.com/YerongAI/Office-Tool/releases)
-- [QQ](https://im.qq.com/download/)、[RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)、[LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT)
+- [QQ](https://im.qq.com/pcqq/index.shtml)、[RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)、[LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT)
 - [Steam](https://store.steampowered.com/about/)
 - ~~[Ubisoft Connect](https://ubisoftconnect.com/zh-CN/)~~
 - [WeGame](https://www.wegame.com.cn/)
