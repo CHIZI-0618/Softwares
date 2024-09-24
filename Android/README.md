@@ -90,9 +90,9 @@
 
 - [PicaComic](https://github.com/wgh136/PicaComic/releases)、~~[JHenTai](https://github.com/jiangtian616/JHenTai/releases)~~、~~[Eros-FE](https://github.com/3003h/Eros-FE/releases)~~
 
-- [禁漫天堂](https://18comic.vip/stray/)
+- ~~[禁漫天堂](https://18comic.vip/stray/)~~
 
-- [哔咔漫画](https://www.picacomic.com/)
+- ~~[哔咔漫画](https://www.picacomic.com/)~~
 
 - [腾讯动漫](https://ac.qq.com/)
 
