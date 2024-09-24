@@ -320,7 +320,7 @@
 
 - [闲鱼](https://2.taobao.com/)
 
-- 小米商城
+- [转转](https://www.zhuanzhuan.com/)
 
 ## 营业厅
 
