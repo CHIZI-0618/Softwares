@@ -526,9 +526,9 @@ options
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [火绒](https://www.huorong.cn/person5.html)
 - [Logitech G HUB](https://support.logi.com/hc/zh-cn/articles/360025298133)
-- ~~[Intel Graphics Driver](https://www.intel.cn/content/www/cn/zh/download/785597/intel-arc-iris-xe-graphics-windows.html)~~、[Intel Extreme Tuning Utility](https://www.intel.cn/content/www/cn/zh/download/17881/intel-extreme-tuning-utility-intel-xtu.html)
+- [Intel Graphics Driver](https://www.intel.cn/content/www/cn/zh/download/785597/intel-arc-iris-xe-graphics-windows.html)、[Intel Extreme Tuning Utility](https://www.intel.cn/content/www/cn/zh/download/17881/intel-extreme-tuning-utility-intel-xtu.html)
 - [NVIDIA App](https://www.nvidia.cn/software/nvidia-app/)、[GeForce Drivers](https://www.nvidia.cn/Download/Find.aspx?lang=cn)、[Display Driver Uninstaller](https://www.wagnardsoft.com/display-driver-uninstaller-ddu-)
-- [Realtek High Definition Audio (HDA) Version WHQL](https://www.necacom.net/index.php/realtek/hd-audio-2)、~~[Realtek-UAD-generic](https://github.com/pal1000/Realtek-UAD-generic)~~
+- [Realtek High Definition Audio (HDA) Version WHQL](https://www.necacom.net/index.php/realtek/hd-audio-2)、[Realtek-UAD-generic](https://github.com/pal1000/Realtek-UAD-generic)
 - [Intel Wi-Fi Drivers](https://www.intel.cn/content/www/cn/zh/download/19351/windows-10-and-windows-11-wi-fi-drivers-for-intel-wireless-adapters.html)、[Intel Wireless Bluetooth](https://www.intel.cn/content/www/cn/zh/download/18649/intel-wireless-bluetooth-for-windows-10-and-windows-11.html)
 - [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer/releases)
 - [OpenHashTab](https://github.com/namazso/OpenHashTab/releases)
@@ -536,7 +536,6 @@ options
 - [Office Tool Plus](https://github.com/YerongAI/Office-Tool/releases)
 - [QQ](https://im.qq.com/pcqq/index.shtml)、[RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)、[LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT)
 - [Steam](https://store.steampowered.com/about/)
-- ~~[Ubisoft Connect](https://ubisoftconnect.com/zh-CN/)~~
 - [WeGame](https://www.wegame.com.cn/)
 - [HandBrake](https://github.com/HandBrake/HandBrake/releases)、[ShanaEncoder](https://shana.pe.kr/shanaencoder_download)
 - [便笺](https://www.microsoft.com/en-us/p/microsoft-sticky-notes/9nblggh4qghw)
@@ -549,8 +548,8 @@ options
 - [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases)
 - [N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI/releases)、[N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp/releases) `pip3 install --upgrade git+https://github.com/yt-dlp/yt-dlp.git` 、~~[youtube-dl(pip)](https://github.com/ytdl-org/youtube-dl/releases) `pip3 install --upgrade git+https://github.com/ytdl-org/youtube-dl.git`~~ 、[Streamlink(pip)](https://github.com/streamlink/streamlink/releases) `pip3 install --upgrade git+https://github.com/streamlink/streamlink.git`
-- ~~[Snipaste](https://www.snipaste.com/)~~、[PixPin](https://pixpinapp.com/)
-- [MPV](https://github.com/hooke007/MPV_lazy)、~~[Potplayer](https://www.423down.com/3050.html)~~
+- [PixPin](https://pixpinapp.com/)
+- [MPV](https://github.com/hooke007/MPV_lazy)
 - ~~[NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home)~~、~~[qView](https://github.com/jurplel/qView/releases)~~、[ImageGlass](https://github.com/d2phap/ImageGlass/releases)
 - [Adobe software series](https://weibo.com/1112829033)
 - [百度云](http://pan.baidu.com/download)
