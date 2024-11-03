@@ -392,10 +392,10 @@ apksigner sign --ks SekiBetu.p12 --ks-key-alias SekiBetu optimized-unsigned.apk 
 <details><summary>Chrome & Edge Flags</summary>
 
 ```shell
-Override software rendering list
+Override software rendering list[Not recommended]
 Smooth Scrolling
 【Chrome Only】Overlay Scrollbars
-GPU rasterization
+GPU rasterization[Not recommended]
 Fluent overlay scrollbars.
 Parallel downloading
 【Chrome Only】Windows 11 Mica titlebar
