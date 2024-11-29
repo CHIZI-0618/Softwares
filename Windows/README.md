@@ -537,7 +537,7 @@ options
 - [QQ](https://im.qq.com/pcqq/index.shtml)、[RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)、[LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT)
 - [Steam](https://store.steampowered.com/about/)
 - [WeGame](https://www.wegame.com.cn/)
-- [HandBrake](https://github.com/HandBrake/HandBrake/releases)、[ShanaEncoder](https://shana.pe.kr/shanaencoder_download)
+- [HandBrake](https://github.com/HandBrake/HandBrake/releases)、[格式工厂(FormatFactory)](https://www.423down.com/1072.html)、[万兴优转(UniConverter)](https://www.423down.com/9267.html)
 - [便笺](https://www.microsoft.com/en-us/p/microsoft-sticky-notes/9nblggh4qghw)
 - [Shotcut](https://github.com/mltframework/shotcut/releases)
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/releases)
