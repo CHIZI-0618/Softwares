@@ -52,7 +52,7 @@
 *#*#76937#*#*
 ```
 
-## 漫画
+## 小说漫画
 
 - [aniyomi](https://github.com/aniyomiorg/aniyomi/releases)
 
@@ -140,7 +140,7 @@
 
 - [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)
 
-## 论坛
+## 平台
 
 - [X](https://play.google.com/store/apps/details?id=com.twitter.android)
 
@@ -157,6 +157,44 @@
 - [迅雷](https://mobile.xunlei.com/)
 
 - [飞猫盘](https://www.feimaoyun.com/)
+
+## 出行
+
+- [高德地图](https://mobile.amap.com/)
+
+- [百度地图](https://map.baidu.com/zt/client/index/)
+
+- [Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
+
+- [交管 12123](https://122.gov.cn/)
+
+- 小米运动健康
+
+## 购物
+
+- [京东](https://www.jd.com/)
+
+- [淘宝](https://market.m.taobao.com/app/fdilab/download-page/main/index.html)
+
+- [拼多多](https://www.pinduoduo.com/home/download/)
+
+- [闲鱼](https://2.taobao.com/)
+
+## 营业厅
+
+- [中国工商银行](https://icbc.com.cn/ICBC/%e7%94%b5%e5%ad%90%e9%93%b6%e8%a1%8c/%e5%ae%a2%e6%88%b7%e7%ab%af%e4%b8%8b%e8%bd%bd/default.htm)
+
+- [中国建设银行](https://appgallery.huawei.com/app/C10092701)
+
+- ~~[浙里办](https://www.zjzwfw.gov.cn/col/col1229640638/index.html)~~
+
+- ~~[掌上12333](http://www.12333.gov.cn/ggfwstatic/download/app.html)~~
+
+- ~~[国家医保服务平台](https://app.gjzwfw.gov.cn/fwmhapp/downloadApp/android.html)~~
+
+## 无分组
+
+- [Electrodoc Pro](https://play.google.com/store/apps/details?id=it.android.demi.elettronica.pro)
 
 ## 外卖
 
@@ -180,15 +218,15 @@
 
 - [【Magisk Module】BootAnimation](https://t.me/MagiBoot)
 
-- ~~[【Magisk Module】MagiskTrustUserCerts](https://github.com/NVISOsecurity/MagiskTrustUserCerts)~~、[Move Certificates](https://github.com/ys1231/MoveCertificate)
+- ~~[【Magisk Module】MagiskTrustUserCerts](https://github.com/NVISOsecurity/MagiskTrustUserCerts)~~、~~[Move Certificates](https://github.com/ys1231/MoveCertificate)~~
 
 - [【Magisk Module】LSPosed](https://github.com/LSPosed/LSPosed/actions/workflows/core.yml?query=workflow%3ACore+branch%3Amaster)
 
 - [【LSPosed Module】CorePatch](https://github.com/LSPosed/CorePatch/releases)
 
-- [【LSPosed Module】DisableFlagSecure](https://github.com/LSPosed/DisableFlagSecure/releases)
+- [【LSPosed Module】Enable Screenshot](https://github.com/LSPosed/DisableFlagSecure/releases)
 
-- ~~[【LSPosed Module】JustTrustMe](https://github.com/SekiBetu/JustTrustMe/releases)~~、[SSL KiLLER](https://github.com/Xposed-Modules-Repo/com.simo.ssl.killer)
+- ~~[【LSPosed Module】JustTrustMe](https://github.com/SekiBetu/JustTrustMe/releases)~~、~~[SSL KiLLER](https://github.com/Xposed-Modules-Repo/com.simo.ssl.killer)~~
 
 - [ZArchiver Pro](https://www.423down.com/6027.html)
 
@@ -219,8 +257,6 @@
 - [LibChecker](https://play.google.com/store/apps/details?id=com.absinthe.libchecker)
 
 - [LiveBoot](https://play.google.com/store/apps/details?id=eu.chainfire.liveboot)
-
-- ~~[SPIC](https://play.google.com/store/apps/details?id=com.henrikherzig.playintegritychecker)~~
 
 ## Proxy
 
@@ -282,6 +318,8 @@
 
 - [爱玩机工具箱](https://www.coolapk.com/apk/com.byyoung.setting)
 
+- [GKD](https://github.com/gkd-kit/gkd/releases/)
+
 ## 无分组
 
 - [网易云音乐](https://music.163.com/#/download)
@@ -298,42 +336,6 @@
 
 - 相机
 
-## 出行
-
-- [高德地图](https://mobile.amap.com/)
-
-- [百度地图](https://map.baidu.com/zt/client/index/)
-
-- [Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
-
-- [交管 12123](https://122.gov.cn/)
-
-- 小米运动健康
-
-## 购物
-
-- [京东](https://www.jd.com/)
-
-- [淘宝](https://market.m.taobao.com/app/fdilab/download-page/main/index.html)
-
-- [拼多多](https://www.pinduoduo.com/home/download/)
-
-- [闲鱼](https://2.taobao.com/)
-
-- [转转](https://www.zhuanzhuan.com/)
-
-## 营业厅
-
-- [中国工商银行](https://icbc.com.cn/ICBC/%e7%94%b5%e5%ad%90%e9%93%b6%e8%a1%8c/%e5%ae%a2%e6%88%b7%e7%ab%af%e4%b8%8b%e8%bd%bd/default.htm)
-
-- [中国建设银行](https://appgallery.huawei.com/app/C10092701)
-
-- ~~[浙里办](https://www.zjzwfw.gov.cn/col/col1229640638/index.html)~~
-
-- ~~[掌上12333](http://www.12333.gov.cn/ggfwstatic/download/app.html)~~
-
-- ~~[国家医保服务平台](https://app.gjzwfw.gov.cn/fwmhapp/downloadApp/android.html)~~
-
 ## Future
 
 - ~~[BOSS 直聘](https://app.zhipin.com/?ka=header-app)~~
@@ -346,14 +348,4 @@
 
 ## 无分组
 
-- [Electrodoc Pro](https://play.google.com/store/apps/details?id=it.android.demi.elettronica.pro)
-
-## Testing
-
 - [nRF Connect](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp)
-
-- 测试用APP1
-
-- 测试用APP2
-
-- 测试用APP3
