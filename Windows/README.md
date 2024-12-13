@@ -553,7 +553,7 @@ options
 - ~~[NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home)~~、~~[qView](https://github.com/jurplel/qView/releases)~~、[ImageGlass](https://github.com/d2phap/ImageGlass/releases)
 - [Adobe software series](https://weibo.com/1112829033)
 - [百度云](http://pan.baidu.com/download)
-- [CCleaner](https://www.423down.com/716.html)、[Winapp2](https://github.com/MoscaDotTo/Winapp2)
+- [Wise Care 365](https://www.423down.com/3471.html)
 - [Telegram](https://telegram.org/)
 - [雷神加速器](https://www.leigod.com/)
 - [MuMu模拟器](https://mumu.163.com/)
