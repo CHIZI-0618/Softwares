@@ -250,7 +250,7 @@
 
 - [LocalSend](https://github.com/localsend/localsend/releases)
 
-- [布丁扫描](https://www.budingscan.com/)
+- [汉王扫描王](https://www.hanvonscanner.com/)、[夸克扫描王](https://scan.quark.cn/)
 
 - [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt)
 
