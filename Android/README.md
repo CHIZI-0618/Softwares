@@ -240,13 +240,13 @@
 
 - [搜狗输入法](https://pinyin.cn/)
 
-- [【LSPosed Module】QAuxiliary](https://github.com/cinit/QAuxiliary)、[【LSPosed Module】微 X 模块](https://t.me/fk_zhang)
+- ~~[【LSPosed Module】QAuxiliary](https://github.com/cinit/QAuxiliary)~~、~~[【LSPosed Module】微 X 模块](https://t.me/fk_zhang)~~
 
 - [【LSPosed Module】哔哩漫游](https://github.com/yujincheng08/BiliRoaming/releases)
 
-- [【LSPosed Module】应用伪装](https://github.com/Xposed-Modules-Repo/com.variable.apkhook/releases)、[【LSPosed Module】应用变量](https://github.com/appenv/appenv.github.io/releases)
+- ~~[【LSPosed Module】应用伪装](https://github.com/Xposed-Modules-Repo/com.variable.apkhook/releases)~~、[【LSPosed Module】应用变量](https://github.com/appenv/appenv.github.io/releases)
 
-- [【LSPosed Module】TSBattery](https://github.com/fankes/TSBattery/releases)
+- ~~[【LSPosed Module】TSBattery](https://github.com/fankes/TSBattery/releases)~~
 
 - [LocalSend](https://github.com/localsend/localsend/releases)
 
