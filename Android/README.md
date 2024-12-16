@@ -240,21 +240,21 @@
 
 - [搜狗输入法](https://pinyin.cn/)
 
-- ~~[【LSPosed Module】QAuxiliary](https://github.com/cinit/QAuxiliary)~~、~~[【LSPosed Module】微 X 模块](https://t.me/fk_zhang)~~
+- [汉王扫描王](https://www.hanvonscanner.com/)、[夸克扫描王](https://scan.quark.cn/)
+
+- [LocalSend](https://github.com/localsend/localsend/releases)
+
+- [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt)
 
 - [【LSPosed Module】哔哩漫游](https://github.com/yujincheng08/BiliRoaming/releases)
 
 - ~~[【LSPosed Module】应用伪装](https://github.com/Xposed-Modules-Repo/com.variable.apkhook/releases)~~、[【LSPosed Module】应用变量](https://github.com/appenv/appenv.github.io/releases)
 
+- ~~[【LSPosed Module】QAuxiliary](https://github.com/cinit/QAuxiliary)~~、~~[【LSPosed Module】微 X 模块](https://t.me/fk_zhang)~~
+
 - ~~[【LSPosed Module】TSBattery](https://github.com/fankes/TSBattery/releases)~~
 
-- [LocalSend](https://github.com/localsend/localsend/releases)
-
-- [汉王扫描王](https://www.hanvonscanner.com/)、[夸克扫描王](https://scan.quark.cn/)
-
-- [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt)
-
-- [LibChecker](https://play.google.com/store/apps/details?id=com.absinthe.libchecker)
+- ~~[LibChecker](https://play.google.com/store/apps/details?id=com.absinthe.libchecker)~~
 
 - [LiveBoot](https://play.google.com/store/apps/details?id=eu.chainfire.liveboot)
 
